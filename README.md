@@ -59,47 +59,24 @@ I build practical projects using Python, SQL, databases, ETL tools, cloud platfo
 
 ## 🚀 Featured Projects
 
-### ✈️ Flight Operations Data Pipeline & Analytics
+### ✈️ [Flight Operations Data Pipeline](https://github.com/pranjal-2002/flight-operations-data-pipeline)
+**Python • Apache Airflow • PostgreSQL • Docker • Power BI**
 
-**Python | Apache Airflow | PostgreSQL | Docker | Power BI**
-
-End-to-end project combining data engineering and analytics.
-
-* Extracted and transformed flight data
-* Built an automated ETL pipeline using Apache Airflow
-* Stored processed data in PostgreSQL
-* Designed a structured data model for analytics
-* Built an interactive Power BI dashboard
-* Analyzed flight activity, countries, altitude, speed, and flight trends
+End-to-end data pipeline and analytics solution for processing flight operations data, automating ETL workflows, storing data in PostgreSQL, and generating insights through Power BI.
 
 ---
 
+### 📊 [Amazon Sales Analysis](https://github.com/pranjal-2002/amazon-sales-data-analysis-project)
+**SQL • Python • Power BI • Excel**
 
-### 📊 Amazon Sales Analysis
-
-**SQL | Python | Power BI | Excel**
-
-Data analytics project focused on sales performance and business insights.
-
-* Cleaned and analyzed sales data
-* Used SQL for data analysis
-* Performed exploratory analysis using Python
-* Created interactive Power BI dashboards
-* Analyzed sales trends, products, and business performance
+Sales analytics project focused on analyzing sales performance, trends, products, and business insights.
 
 ---
 
-### 👥 HR Analytics Dashboard
+### 👥 [HR Analytics](https://github.com/pranjal-2002/hr-analytics-project)
+**SQL • Excel • Power BI • Tableau**
 
-**SQL | Excel | Tableau | Power BI**
-
-Interactive HR analytics project for understanding workforce and employee trends.
-
-* Analyzed employee and HR data
-* Created KPIs and business metrics
-* Built interactive dashboards
-* Used filters and visualizations to identify workforce trends
-* Presented insights through Power BI and Tableau
+Interactive HR analytics project for analyzing workforce trends, employee metrics, and business KPIs.
 
 ---
 
