@@ -144,7 +144,6 @@ I’m interested in solving real-world problems using data, building reliable da
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [Add your LinkedIn URL]
-* GitHub: [Add your GitHub URL]
+* LinkedIn: https://www.linkedin.com/in/pranjal-nerkar-33477b292/
 
 ⭐ Feel free to explore my repositories and projects!
