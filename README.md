@@ -119,8 +119,20 @@ I’m interested in solving real-world problems using data, building reliable da
 
 ---
 
-## 🤝 Connect With Me
+## 📈 GitHub Activity
 
-* LinkedIn: https://www.linkedin.com/in/pranjal-nerkar-33477b292/
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal-2002&show_icons=true&hide_border=true&rank_icon=github)
 
-⭐ Feel free to explore my repositories and projects!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-2002&layout=compact&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranjal-nerkar-33477b292/)
+- 🐙 [GitHub](https://github.com/pranjal-2002)
+
+---
+
+⭐ Thanks for visiting my profile!
+
